@@ -5,12 +5,12 @@
 
 ## About me 👀
   <br/>
-&#9913; 24yrs and Carioca da Gema 🇧🇷 ; <br/>
-&#9913; Mother of 3 beautiful Shih-tzus; <br/>
-&#9913; Inherited love for tech from my dad; <br/>
+&#9913; 24yrs and Carioca da Gema! pronouns(she/her) 🌸; <br/>
+&#9913; Mother of 3 beautiful Shih-tzus 🐕; <br/>
+&#9913; Inherited love for tech from my dad 🤍; <br/>
 &#9913; Currently studying Full Stack Software Development at <a href=https://github.com/cubos-academy>@cubosacademy<a/>; <br/>
-&#9913; Bachelor's Degree at Biomedical Science; <br/>
-&#9913; Eager to apply skills from my previous degree like analytical thinking and scientific method in Software Development;
+&#9913; Bachelor's Degree at Biomedical Science 🧬; <br/>
+&#9913; Eager to apply skills from my previous degree like analytical thinking and scientific method in Software Development 👩‍💻;
   <br/>
 <!--
 **anabb-ribeiro/anabb-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
