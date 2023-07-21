@@ -4,7 +4,7 @@
 </div>
 
 ## About me 👀
-&#9913; 24yrs and Carioca da Gema! pronouns(she/her) 🌸; <br/>
+&#9913; 24 years old and Carioca da Gema! pronouns(she/her) 🌸; <br/>
 &#9913; Mother of 3 beautiful Shih-tzus 🐕; <br/>
 &#9913; <s>Probably shouldnt say that here but </s> i'm a gamer who plays mainly pc and card games 👾; <br/>
 &#9913; Inherited love for tech from my dad 🤍; <br/>
